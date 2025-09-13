@@ -1,7 +1,7 @@
 # Supplementary-contents-for-TCPN
 Intro
 ----
-This is a supplementary instruction for the paper "Enforcement of Time-Constrained Colored GMECs on Time-Colored Petri Nets".
+This is a supplementary instruction for the paper "Enforcement of Time-Constrained GMECs on Time-Colored Petri Nets".
 
 This supplementary file includes the nomenclature and additional data for the port system case study presented in Section VII of the paper.
 
