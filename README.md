@@ -1,4 +1,4 @@
-# Supplementary-contents-for-TCPN
+# Supplementary-contents-for-TCoPN
 Intro
 ----
 This is a supplementary instruction for the paper "Enforcement of Time-Constrained GMECs on Time-Colored Petri Nets".
